@@ -42,7 +42,7 @@ body{
 .container{
 
     max-width: 340px;
-    height: 98vh;
+    height: 500px;
     border: 2px solid black; 
     display: grid;
     grid-template-columns: repeat(4,1fr);
