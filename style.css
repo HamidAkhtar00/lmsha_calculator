@@ -41,8 +41,8 @@ body{
 
 .container{
 
-    max-width: 320px;
-    height: 520px;
+    max-width: 340px;
+    height: 620px;
     border: 2px solid black; 
     display: grid;
     grid-template-columns: repeat(4,1fr);
