@@ -8,7 +8,7 @@ operand_btns.forEach((btn)=>{
         display.innerText += btn.innerText;
     });
 });
-// ------------------result-------------
+// ------------------result-------------- 
 eql.addEventListener('click',(e)=>{
     cal = eval(display.innerText);
     display_total.innerText = cal;
